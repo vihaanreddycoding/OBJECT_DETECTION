@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: aqua;
+    
+}
+#BED{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+#BOTTLE{
+    background-color: lightblue;
+    text-align: center;
+}
+#BOOK{
+    background-color: green;
+    text-align:center;
+}
+#TV{
+    background-color: gray;
+    text-align: center;
+}
+#PHONE{
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+color: blue;
+    background-color: white;
+    
+    
+}

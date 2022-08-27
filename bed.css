@@ -1,0 +1,10 @@
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#back {
+    float: right;
+    background-color: aqua;
+    color: blue;
+}
